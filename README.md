@@ -22,5 +22,5 @@ The `rsoliman.vmware_demos` collection has a dependancy on the modules from the 
 To use the playbooks in Ansible tower:
 
 1. create a new project pointing to this repo
-2. define credentials for vcenter and Tower
+2. define credentials for vcenter and Ansible Tower/Controller
 3. create job templates to use the playbooks you need
